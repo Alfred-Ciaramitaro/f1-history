@@ -1,2 +1,2 @@
-# f1-history
+# F1-History
 f1
