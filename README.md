@@ -1,2 +1,2 @@
 # F1-History
-f1
+From the 1950s to the 2026s
